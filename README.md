@@ -50,22 +50,7 @@ image-gallery/
 3. Use the **Previous** and **Next** buttons to browse through the gallery.
 4. You can also use the **Left** and **Right Arrow** keys on your keyboard to navigate between images.
 
-## 📷 Screenshot
-
-> Add a screenshot of your project here.
-
-Example:
-
 ```
-images/screenshot.png
-```
-
-Then use:
-
-```md
-![Image Gallery Screenshot](images/screenshot.png)
-```
-
 ## 💡 What I Learned
 
 While building this project, I practiced:
