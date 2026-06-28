@@ -4,7 +4,7 @@ A modern and responsive Image Gallery built using **HTML, CSS, and JavaScript**.
 
 ## 🚀 Live Demo
 
-🔗 https://your-github-pages-link
+🔗  https://eldhoseabrahamemerson.github.io/image-gallery/
 
 ## 📸 Features
 
